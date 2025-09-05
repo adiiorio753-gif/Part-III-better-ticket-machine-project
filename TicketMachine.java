@@ -19,6 +19,10 @@ public class TicketMachine
     private int total;
     
     private int saving;
+    
+    private int discount;
+    
+    private int mean;
 
     /**
      * Create a machine that issues tickets of the given price.
