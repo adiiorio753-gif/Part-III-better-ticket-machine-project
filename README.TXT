@@ -15,7 +15,9 @@ How to start this project: Create one or more TicketMachine objects.
 
 Part 3
 47. The error states to use a positive number and not 0, No balance remain the same.
-48. I think that an error icon will be shown, the was no error message and the balance was reset previously inserting money.
+48. I think that an error icon will be shown, the was no error message and the balance was reset despite previously inserting money.
 50. it was the visibility of the canvas, yes it was well suited as there were only 2 options
 52. it is possible as the code complies, it asks me to insert money.
 53. yes because if you insert more than the ticket price it will be seen as extra to remove.
+55. saving = price * dicount;
+56. mean = total / count;
